@@ -1,0 +1,17 @@
+{
+  "frontPage": [
+    {
+      "title": "Find the best remote jobs on Pace",
+      "body": "Work wherever you are with flexible remote offers on Pace."
+    },
+    {
+      "title": "Pick up the pace on your tech career",
+      "body": "You can take your tech career to the next level with great opportunities on Pace."
+    },
+    {
+      "title": "Accelerate your career in tech with Pace",
+      "body": "Pace offers you the best opportunities in tech to help you accelerate your career."
+    }
+  ],
+  "frontChecklist": ["5000 tech jobs", "Estimated Salaries", "Tech Trainings"]
+}
